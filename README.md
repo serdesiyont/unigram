@@ -64,16 +64,16 @@
 
 <!-- ABOUT THE PROJECT -->
 
-[product-screenshot]: assets/video/unigram.mp4
-[![Product Name Screen Shot][product-screenshot]](assets/video/unigram.mp4)
+
+![image](https://github.com/user-attachments/assets/bb110530-13cc-4bca-8f38-3a36ca691e3a)
+
 
 ## About The Project
 
 Unigram is a dynamic platform that revolutionizes student collaboration and academic support within educational settings. It offers a seamless experience where students can engage in asking and answering questions, sharing vital resources, and cultivating a sense of communal learning. With a user-friendly interface and robust features like intuitive search functionality and personalized user profiles, Unigram empowers students to actively participate in knowledge exchange. Built on modern web technologies including React.js, Node.js, and MongoDB, Unigram ensures a responsive and efficient platform for facilitating meaningful interactions among peers. Join us in shaping the future of collaborative learning by contributing to Unigram today.
 
 
-[product-screenshott]: media/readme/student-dashboard.png
-[![Product Name Screen Shot][product-screenshott]](media/readme/student-dashboard.png)
+ ![image](https://github.com/user-attachments/assets/ac5d9df5-95ef-4286-b950-4d111607a195)
 
 
 ## Student User Type
@@ -83,8 +83,7 @@ Students on our platform enjoy a rich learning experience with a variety of feat
 In addition to the academic offerings, students can delve into a vibrant community where they can engage in discussions, share insights, and foster collaborative learning. The platform's interactive features enable students to comment on course materials, creating a dynamic environment for knowledge exchange. The subscription feature ensures that students stay informed about updates, announcements, and new course offerings, enhancing their educational experience. With a user-friendly interface and diverse resources, our platform strives to make the learning journey seamless, enjoyable, and intellectually rewarding for every student.
 
 
-[product-screenshottt]: media/readme/teacher-dashboard.png
-[![Product Name Screen Shot][product-screenshottt]](media/readme/teacher-dashboard.png)
+ 
 
 ## Teacher User Type
 
@@ -93,8 +92,8 @@ Teachers play a pivotal role in shaping the educational landscape on our platfor
 Additionally, teachers have the privilege of offering a diverse range of courses, catering to the unique needs and interests of their students. These courses serve as a gateway to comprehensive and engaging learning experiences, allowing teachers to impart knowledge and skills in an interactive manner. The platform's library feature further augments the teaching process, providing teachers with the ability to curate a digital collection of resources, including softcopy books, enhancing the richness of educational content available to students. This comprehensive approach ensures that teachers have the tools and resources necessary to create a dynamic and supportive learning environment that goes beyond traditional boundaries.
 
 
-[product-screenshotttt]: media/readme/manager-dashboard.png
-[![Product Name Screen Shot][product-screenshotttt]](media/readme/manager-dashboard.png)
+ ![image](https://github.com/user-attachments/assets/841912dc-54d3-46d6-884d-cb31138e5d05)
+
 
 ## Manager and Staff User Types
 
