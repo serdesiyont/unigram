@@ -263,7 +263,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
+<!--
 Your Name - [instagram](https://instagram.com/lulsgd) - leulsegedmelaku1020@gmail.com
 
 Project Link: [https://github.com/ludis-et/unigram](https://github.com/ludis-et/unigram)
@@ -271,7 +271,7 @@ Project Link: [https://github.com/ludis-et/unigram](https://github.com/ludis-et/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- 
+
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
